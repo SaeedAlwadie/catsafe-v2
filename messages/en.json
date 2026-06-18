@@ -1,0 +1,16 @@
+{
+  "nav": {"services":"Services","tech":"Technology","suites":"Suites","booking":"Booking","faq":"FAQ","signin":"Sign In","book":"Book Now","switch":"العربية"},
+  "hero": {"eyebrow":"Smart Cat Hospitality Platform","title1":"Smart Stay,","title2":"Safe Way","body":"The next generation of cat hospitality — luxury suites, smart litter box monitoring, and instant WhatsApp updates so you always know your cat is safe.","cta":"Book Your Cat's Stay","wa":"Contact via WhatsApp"},
+  "stats": {"cats":"Happy Cats Hosted","monitoring":"Smart Monitoring","rating":"Customer Rating"},
+  "about": {"label":"About CatSafe","title":"We reimagined cat hospitality","body":"CatSafe combines premium cat boarding with practical technology: sensor-equipped suites, daily care logs, live wellness indicators, and a WhatsApp-first experience for owners.","mission":"Our mission","missionBody":"To give every cat a calm, safe and intelligent stay experience that owners can trust completely."},
+  "services": {"label":"What We Offer","title":"Everything your cat needs","body":"From smart boarding to grooming and transport — every service is designed for comfort, transparency and peace of mind."},
+  "tech": {"label":"Smart Technology","title":"Years ahead of traditional pet hotels","body":"Our Smart Litter Box Intelligence monitors visit frequency, patterns and wellness signals, then delivers meaningful updates through WhatsApp."},
+  "booking": {"label":"Booking Experience","title":"Reserve in 7 simple steps","preview":"Choose your dates","sub":"Step 2 of 7 — Select check-in and check-out","continue":"Continue to Cat Information"},
+  "suites": {"label":"Suite Categories","title":"Choose your cat's perfect suite","select":"Select Suite"},
+  "whatsapp": {"label":"WhatsApp-First","title":"Your cat's stay, delivered to your phone","body":"No new app required. Receive check-in confirmations, daily activity reports, smart health alerts and pickup reminders directly on WhatsApp."},
+  "why": {"label":"Why CatSafe","title":"Built different by design"},
+  "testimonials": {"label":"Customer Stories","title":"What cat owners are saying"},
+  "faq": {"label":"FAQ","title":"Common questions"},
+  "cta": {"title":"Your cat deserves the best stay.","body":"Smart technology. Luxury care. Complete peace of mind.","book":"Book Your Cat's Stay Now","suites":"View All Suites"},
+  "footer": {"desc":"The next generation of cat hospitality — powered by smart technology, luxury environments, and real-time WhatsApp communication.","rights":"© 2026 CatSafe. All rights reserved.","tag":"SMART STAY, SAFE WAY"}
+}
